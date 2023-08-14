@@ -1,2 +1,2 @@
 # Projecto-integrador
-Desarrollo de juego. Estaremos aventurandonos en el juego del laberinto. Sera realizado con simbolos del sistema. P representara al personaje y se desplazara por los distintos lugares del laberinto, encontrandose con paredes a su paso. La finalidad es llevar a la ficha "P", a traves del laberinto buscando la salida.  
+Este proyecto consiste en la creacion de un videojuego de laberinto. Se utilizara la letra "P" para designar al jugador. Este tendra que recorrer los laberintos hasta llegar a la salida del mismo. No siendo mas, bienvenidos al juego del laberinto. Un nuevo pasatiempo para no olvidar. 
